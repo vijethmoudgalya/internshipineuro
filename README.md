@@ -1,1 +1,1 @@
-# ineuron_full_stack_assignments
+Contains All Assignments for Full Stack Data Science Course
